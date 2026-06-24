@@ -21,7 +21,7 @@ The repository consists of three distinct signature templates:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[index.html](file:///d:/Projects%20Company/Email-Signature/index.html)** | **Josh Preston** | Director & Buyers Agent | [josh@prestonandco.com.au](mailto:josh@prestonandco.com.au) | `0416 968 734` | [Josh Name Image](https://res.cloudinary.com/df80crgrw/image/upload/e_trim/v1782286792/Josh_Preston_yjovlz.png) |
 | **[second.html](file:///d:/Projects%20Company/Email-Signature/second.html)** | **Sophie Preston** | Buyers Associate and Administration | [sophie@prestonandco.com.au](mailto:sophie@prestonandco.com.au) | `0458 253 836` | [Sophie Name Image](https://res.cloudinary.com/df80crgrw/image/upload/e_trim/v1782289972/Sophie_Preston_dcljgx.png) |
-| **[threee.html](file:///d:/Projects%20Company/Email-Signature/threee.html)** | **Kiyah Preston** | Operations Manager | [kiyah@prestonandco.com.au](mailto:kiyah@prestonandco.com.au) | `0458 253 836` | [Kiyah Name Image](https://res.cloudinary.com/df80crgrw/image/upload/e_trim/v1782290025/Kiyah_Preston_cy8kln.png) |
+| **[three.html](file:///d:/Projects%20Company/Email-Signature/three.html)** | **Kiyah Preston** | Operations Manager | [kiyah@prestonandco.com.au](mailto:kiyah@prestonandco.com.au) | `0458 253 836` | [Kiyah Name Image](https://res.cloudinary.com/df80crgrw/image/upload/e_trim/v1782290025/Kiyah_Preston_cy8kln.png) |
 
 ---
 
